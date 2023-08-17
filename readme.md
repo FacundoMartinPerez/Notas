@@ -12,7 +12,6 @@ MONGODB_URI = mongodb+srv://<username>:<password>@mongodburlhere
 GOOGLE_CLIENT_ID= TU_GOOGLE_ID_ACÁ
 GOOGLE_CLIENT_SECRET= TU_GOOGLE_CLIENT_SECRET_ACÁ
 GOOGLE_CALLBACK_URL=http://localhost:5000/google/callback
-Aún así yo dejo mis credenciales para que sea más fácil, las credenciales ya están en el archivo .env
 ```
 
 ## Instalación
